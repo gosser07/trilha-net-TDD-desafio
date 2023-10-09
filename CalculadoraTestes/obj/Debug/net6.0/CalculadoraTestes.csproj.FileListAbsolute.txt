@@ -1,0 +1,5 @@
+C:\Users\Gosser\Documents\DIO\trilha-net-TDD-desafio\CalculadoraTestes\obj\Debug\net6.0\CalculadoraTestes.csproj.AssemblyReference.cache
+C:\Users\Gosser\Documents\DIO\trilha-net-TDD-desafio\CalculadoraTestes\obj\Debug\net6.0\CalculadoraTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gosser\Documents\DIO\trilha-net-TDD-desafio\CalculadoraTestes\obj\Debug\net6.0\CalculadoraTestes.AssemblyInfoInputs.cache
+C:\Users\Gosser\Documents\DIO\trilha-net-TDD-desafio\CalculadoraTestes\obj\Debug\net6.0\CalculadoraTestes.AssemblyInfo.cs
+C:\Users\Gosser\Documents\DIO\trilha-net-TDD-desafio\CalculadoraTestes\obj\Debug\net6.0\CalculadoraTestes.csproj.CoreCompileInputs.cache
